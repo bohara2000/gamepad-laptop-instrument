@@ -1,0 +1,13 @@
+Setup for SAA project:
+
+1. Set up bluetooth devices
+
+
+Start by stopping sixad
+Run sixpair for each controller
+Run sixad once
+Press the (PS) button for each controller
+Fire up qtsixa to verify connections
+Run joystick_test.ck in ChucK for each controller
+
+
