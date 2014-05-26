@@ -36,7 +36,9 @@ Edit score.ck to set controllers to their corresponding controller device number
 Open TrackSequence sketch
 
 4) Start TrackSequence
+
 5) Start initialize.ck
+
 6) Start score.ck
 
 
