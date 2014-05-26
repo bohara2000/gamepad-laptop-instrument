@@ -14,7 +14,7 @@ QtSixA - Sixaxis Joystick Manager
 
 Setup for SAA project:
 
-1. Set up bluetooth devices (linux only - I haven't run this in the Windows or Mac OS)
+1) Set up bluetooth devices (linux only - I haven't run this in the Windows or Mac OS)
 
 Start by stopping sixad
 Run sixpair for each controller
@@ -22,7 +22,7 @@ Run sixad once
 Press the (PS) button for each controller
 Fire up qtsixa to verify connections
 
-2. Fire up miniAudicle
+2) Fire up miniAudicle
 
 Run joystick_test.ck in ChucK for each controller
 Open the following at a minimum:
@@ -32,12 +32,12 @@ Open the following at a minimum:
   - BaseTrack.ck
 Edit score.ck to set controllers to their corresponding controller devices
 
-3. Fire up Processing
+3) Fire up Processing
 
 Open TrackSequence sketch
 
-4. Start TrackSequence
-5. Start initialize.ck
-6. Start score.ck
+4) Start TrackSequence
+5) Start initialize.ck
+6) Start score.ck
 
 
