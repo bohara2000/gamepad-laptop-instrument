@@ -24,13 +24,12 @@ Fire up qtsixa to verify connections
 
 2) Fire up miniAudicle
 
-Run joystick_test.ck in ChucK for each controller
+Run joystick_test.ck in ChucK for each controller.
 Open the following at a minimum:
-  - initialize.ck
-  - score.ck
-  - Track.ck
-  - BaseTrack.ck
-Edit score.ck to set controllers to their corresponding controller devices
+  * initialize.ck
+  * score.ck
+
+Edit score.ck to set controllers to their corresponding controller device numbers
 
 3) Fire up Processing
 
